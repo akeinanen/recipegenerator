@@ -48,7 +48,7 @@ body {
     padding-top: 1em;
     color: #2a203a;
     font-style: italic;
-    text-shadow: 5px 5px 15px;
+    text-shadow: 3px 2px 7px;
 }
 
 #image-container {
@@ -64,6 +64,7 @@ body {
 
 
 #recipe-info {
+    display: none;
     width: 50%;
 }
 
@@ -186,6 +187,7 @@ body {
     width: 75px;
     height: 45px;
 }
+
 
 /* Animation */
 
