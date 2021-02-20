@@ -1,5 +1,5 @@
 # Recipe Generator
-JavaScript app that uses https://spoonacular.com/food-api.
+Recipe Generator app that uses https://spoonacular.com/food-api.
 
 ## Adding API key
 
